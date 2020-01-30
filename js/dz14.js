@@ -1,3 +1,3 @@
-console.log('Hello from JS');
+console.log('Hello from Yuliya');
 
-alert('he again');
+// alert('he again');
